@@ -46,6 +46,7 @@
   <Symbol name="semicolon" type="punct"/>
   <Symbol name="faculty" type="close"/>
   <Symbol name="question" type="close"/>
+  <Symbol name="#" type="ord"/>
 
   <!-- math accents -->
 
